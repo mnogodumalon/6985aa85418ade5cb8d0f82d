@@ -1,0 +1,11 @@
+{
+  "sessions": [
+    {
+      "id": "2b062017-c175-457b-839d-dccdf0ba43a8",
+      "name": "2026-02-27 10:31 - Initial build: Schichtplaner",
+      "created_at": "2026-02-27T10:31:29.854177Z",
+      "last_used": "2026-02-27T10:31:29.854177Z"
+    }
+  ],
+  "active_session": "2b062017-c175-457b-839d-dccdf0ba43a8"
+}
